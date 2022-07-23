@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @alaminnku
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Alamin!
 
-<!---
-alaminnku/alaminnku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build full-stack application with:
+- HTML
+- CSS
+- JavaScript
+- ReactJS
+- NextJS
+- Redux
+- NodeJS
+- ExpressJS
+- Strapi
+---
+Dev tools ⛏ I am familiar with:
+- Webpack
+- Babel
+- Rest APIs
+---
+Find me on: [Twitter](https://twitter.com/alaminnku)
