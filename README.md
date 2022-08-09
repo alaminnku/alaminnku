@@ -1,6 +1,6 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Alamin! I am a full-stack developer specializing in designing and creating modern websites for the food industry.
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Alamin! I am a full-stack developer specializing in creating modern websites for the food industry.
 
-My tech stack and expertise:
+## My tech stack and expertise:
 
 1. HTML
 2. CSS
@@ -24,9 +24,9 @@ My tech stack and expertise:
 18. Bug fixing and API integration
 
 ---
-Dev tools ⛏ I am familiar with:
+## Dev tools ⛏ I am familiar with:
 - Webpack
 - Babel
 
 ---
-Find me on: [Upwork](https://www.upwork.com/freelancers/~01fc6138ad0b44435c)
+### Hire me on: [Upwork](https://www.upwork.com/freelancers/~01fc6138ad0b44435c)
