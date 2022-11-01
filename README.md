@@ -7,21 +7,18 @@
 3. Javascript
 4. ReactJS
 5. NextJS
-6. VueJS
-7. NuxtJS
-8. Wix
-9. Redux
-10. NodeJS
-11. ExpressJS
-12. MongoDB
-13. Strapi CMS
-14. Notion CMS
-15. GraphQL
-16. Rest API
-15. Headless Shopify
-16. Headless WordPress
-17. Serverless functions
-18. Bug fixing and API integration
+6. Redux
+7. NodeJS
+8. ExpressJS
+9. MongoDB
+10. Strapi CMS
+11. Notion CMS
+12. GraphQL
+13. Rest API
+14. Headless Shopify
+15. Headless WordPress
+16. Serverless functions
+17. Bug fixing and API integration
 
 ---
 ## Dev tools ⛏ I am familiar with:
