@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Alamin!
 
-## My tech stack and expertise:
+## My skills set:
 
 1. HTML
 2. CSS
@@ -20,10 +20,4 @@
 16. Serverless functions
 17. Bug fixing and API integration
 
----
-## Dev tools ⛏ I am familiar with:
-- Webpack
-- Babel
-
----
-### Hire me on: [Upwork](https://www.upwork.com/freelancers/~01fc6138ad0b44435c)
+#### Hire me on [Upwork](https://www.upwork.com/freelancers/~01fc6138ad0b44435c)
