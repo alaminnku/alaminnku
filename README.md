@@ -8,17 +8,18 @@
 4. Typescript
 5. ReactJS
 6. NextJS
-7. Redux
-8. NodeJS
-9. ExpressJS
+7. NodeJS
+8. ExpressJS
+9. MySQL
 10. MongoDB
-11. Strapi CMS
-12. Notion CMS
-13. GraphQL
+11. PostgreSQL
+12. Strapi CMS
+13. Notion CMS
 14. Rest API
-15. Headless Shopify
-16. Headless WordPress
-17. Serverless functions
-18. Bug fixing and API integration
+15. Stripe integratioin
+16. Headless Shopify
+17. Headless WordPress
+18. Serverless functions
+19. Bug fixing and API integration
 
 #### Hire me on [Upwork](https://www.upwork.com/freelancers/~01fc6138ad0b44435c)
