@@ -3,9 +3,8 @@
 I am building cutting-edge web applications with:
 
 - TypeScript
-- ReactJS
-- NextJS
-- NodeJS and ExpressJS
+- ReactJS and NextJS
+- NodeJS, ExpressJS, and MongoDB
 
 My GitHub stats at a glance:
 
