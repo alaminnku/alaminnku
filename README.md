@@ -10,4 +10,4 @@ Currently, I am learning:
 - React Native
 - Cloudflare workers
 
-Check out my [blog](https://www.alaminshaikh.com/blog) about JavaScript and freelancing. Hire me on [Upwork](https://www.upwork.com/freelancers/~01fc6138ad0b44435c)
+Check out my [blog](https://www.alaminshaikh.com/blog) about JavaScript and freelancing. Hire me on [Upwork](https://www.upwork.com/freelancers/~01fc6138ad0b44435c)!
