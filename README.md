@@ -9,6 +9,7 @@ I am building cutting-edge web applications with:
 
 Currently, I am learning:
 - Python
+- PostgreSQL
 - React Native
 - Cloudflare Workers
 - Data Structures and Algorithms
