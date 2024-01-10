@@ -5,7 +5,7 @@ I am building cutting-edge web applications with:
 - JavaScript
 - TypeScript
 - React.js and Next.js
-- Node.js, ExpressJS, and MongoDB
+- Node.js, Express.js, and MongoDB
 
 Currently, I am learning:
 - Python
