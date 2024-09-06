@@ -1,17 +1,17 @@
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Alamin!
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alamin!
 
-I am building cutting-edge web applications with:
-
-- JavaScript
+I’m a full-stack developer with advanced expertise in:
 - TypeScript
-- React.js and Next.js
-- Node.js, Express.js, and MongoDB
+- Next.js
+- Node.js and MongoDB
 
-Currently, I am learning:
+I also have hands-on experience with:
 - Python
-- PostgreSQL
 - React Native
 - Cloudflare Workers
-- Data Structures and Algorithms
 
-Check out my [blog](https://www.alaminshaikh.com/blog) about JavaScript and freelancing. Hire me on [Upwork](https://www.upwork.com/freelancers/~01fc6138ad0b44435c)!
+Currently, I'm: 
+- Learning Rust
+- Writing technical articles on my [blog](https://www.alaminshaikh.com/blog)
+
+If you're looking for a skilled developer, feel free to connect with me on [Upwork](https://www.upwork.com/freelancers/~01fc6138ad0b44435c)!
